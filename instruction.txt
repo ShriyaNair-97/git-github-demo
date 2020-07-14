@@ -1,0 +1,2 @@
+Follow the following instruction to work with the project.
+This project is done using DOT NET.
